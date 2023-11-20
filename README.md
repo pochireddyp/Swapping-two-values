@@ -18,14 +18,14 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-'''
+```
 a=input()
 b=input()
 temp=a
 a=b
 b=temp
 print("Swapped values are:",a,b)
-'''
+```
 ### OUTPUT :
 ![image](https://github.com/pochireddyp/Swapping-two-values/assets/150232043/c49816e9-c9ca-4bf5-899b-b4a1808935a4)
 
