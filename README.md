@@ -19,6 +19,9 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+#Program to swap two values.
+#Developed by: pochireddy.p
+#RegisterNumber:23006090
 a=input()
 b=input()
 temp=a
@@ -27,7 +30,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ### OUTPUT :
-![image](https://github.com/pochireddyp/Swapping-two-values/assets/150232043/c49816e9-c9ca-4bf5-899b-b4a1808935a4)
+![image](https://github.com/pochireddyp/Swapping-two-values/assets/150232043/ec89d7d0-0e52-4374-8522-230001997a2d)
+
 
 
 
